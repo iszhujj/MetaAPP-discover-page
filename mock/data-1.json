@@ -4,93 +4,93 @@
     "data": [
         {
             "_id": "hl435s",
-            "cover": "mock/resource/00-cover.webp",
+            "cover": "./mock/resource/00-cover.webp",
             "title": "A_挑战穿韩信痛衣参加腾讯股东大会",
-            "avatar": "mock/resource/00-avatar.webp",
+            "avatar": "./mock/resource/00-avatar.webp",
             "nickname": "邦德德",
             "like": "1698",
             "media_type": 2,
-            "video_src": "mock/resource/00-video.mp4"
+            "video_src": "./mock/resource/00-video.mp4"
         },
         {
             "_id": "7g8a9s",
-            "cover": "mock/resource/01-cover.jpg",
+            "cover": "./mock/resource/01-cover.jpg",
             "title": "A_web前端必备的7个黑科技网站！！！",
-            "avatar": "mock/resource/01-avatar.webp",
+            "avatar": "./mock/resource/01-avatar.webp",
             "nickname": "鲜菇",
             "like": "220",
             "media_type": 1
         },
         {
             "_id": "af81fq",
-            "cover": "mock/resource/02-cover.jpg",
+            "cover": "./mock/resource/02-cover.jpg",
             "title": "A_世界排名更新，赵心童排名11，中国五位前16",
-            "avatar": "mock/resource/02-avatar.webp",
+            "avatar": "./mock/resource/02-avatar.webp",
             "nickname": "爱看斯诺克的yy",
             "like": "2176",
             "media_type": 1
         },
         {
             "_id": "918l4c",
-            "cover": "mock/resource/03-cover.jpg",
+            "cover": "./mock/resource/03-cover.jpg",
             "title": "A_很喜欢的一套，太好看了！😘",
-            "avatar": "mock/resource/03-avatar.webp",
+            "avatar": "./mock/resource/03-avatar.webp",
             "nickname": "我不叫窝窝头",
             "like": "37",
             "media_type": 1
         },
         {
             "_id": "mqwx19",
-            "cover": "mock/resource/04-cover.jpg",
+            "cover": "./mock/resource/04-cover.jpg",
             "title": "A_抓住毕业的尾巴",
-            "avatar": "mock/resource/04-avatar.webp",
+            "avatar": "./mock/resource/04-avatar.webp",
             "nickname": "我可以i",
             "like": "377",
             "media_type": 1
         },
         {
             "_id": "01lqcc",
-            "cover": "mock/resource/05-cover.jpg",
+            "cover": "./mock/resource/05-cover.jpg",
             "title": "A_字节高强度四天三面，挂了😅",
-            "avatar": "mock/resource/05-avatar.webp",
+            "avatar": "./mock/resource/05-avatar.webp",
             "nickname": "K在西元前（不吃香菜版）",
             "like": "40",
             "media_type": 1
         },
         {
             "_id": "7x123f",
-            "cover": "mock/resource/06-cover.jpg",
+            "cover": "./mock/resource/06-cover.jpg",
             "title": "A_抖音代码被我摔出來了",
-            "avatar": "mock/resource/06-avatar.webp",
+            "avatar": "./mock/resource/06-avatar.webp",
             "nickname": "台湾人在广州吃什么❓",
             "like": "64",
             "media_type": 1
         },
         {
             "_id": "ppfq92",
-            "cover": "mock/resource/07-cover.jpg",
+            "cover": "./mock/resource/07-cover.jpg",
             "title": "A_第一次来体验俄罗斯撞球打10分钟就关台了，有人知道为什么吗？台球",
-            "avatar": "mock/resource/07-avatar.webp",
+            "avatar": "./mock/resource/07-avatar.webp",
             "nickname": "柯氏台球",
             "like": "477",
             "media_type": 2,
-            "video_src": "mock/resource/07-video.mp4"
+            "video_src": "./mock/resource/07-video.mp4"
         },
         {
             "_id": "ax67v3",
-            "cover": "mock/resource/08-cover.webp",
+            "cover": "./mock/resource/08-cover.webp",
             "title": "A_世界田联接力赛 广州站#苏炳添 比利时国家短跑队 ＃暨南大学",
-            "avatar": "mock/resource/08-avatar.webp",
+            "avatar": "./mock/resource/08-avatar.webp",
             "nickname": "nfgjun",
             "like": "1364",
             "media_type": 2,
-            "video_src": "mock/resource/08-video.mp4"
+            "video_src": "./mock/resource/08-video.mp4"
         },
         {
             "_id": "kq981m",
-            "cover": "mock/resource/09-cover.webp",
+            "cover": "./mock/resource/09-cover.webp",
             "title": "A_B站源代码？配上后面的deepseek建议更好笑",
-            "avatar": "mock/resource/09-avatar.webp",
+            "avatar": "./mock/resource/09-avatar.webp",
             "nickname": "累死累活又一天",
             "like": "103",
             "media_type": 1
